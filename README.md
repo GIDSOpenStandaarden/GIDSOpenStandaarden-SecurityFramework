@@ -8,7 +8,7 @@ For example, through GIDS Open Standaarden open source components both large tre
 
 At the same time, the users and the organizations that use the open source components mutually trust that all participants have a good safety policy. Existing safety frameworks such as ISO27000 and NEN7510 are not flexible enough to regulate such a diverse field.
 
-That is why GIDS Open Standards has its own [security framework](https://docs.google.com/document/d/14ulbKb2Q8BEXQdv_ntWEXFo7TXBzgjWDaClxkHsQJoU/edit?usp=sharing).
+That is why GIDS Open Standards has its own [security framework](https://github.com/GIDSOpenStandaarden/GIDSOpenStandaarden-SecurityFramework/blob/main/veiligheidskader.md).
 
 ## This security framework uses a number of principles:
 - The framework must encourage an effective security policy and make it visible what is being done about security. To this end, it not only looks at the measures taken, but also at the context of use and the organization.
