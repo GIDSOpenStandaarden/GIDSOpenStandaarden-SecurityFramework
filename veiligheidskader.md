@@ -1,14 +1,5 @@
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# Veiligheidskader  \
-GIDS Open Standaarden
+# Veiligheidskader
 
 
 # Versie en suggesties
@@ -28,9 +19,7 @@ Voel je vrij om in die versie wijzigingen voor te stellen of opmerkingen te plaa
 
 # Introductie
 
-GIDS Open Standaarden beperkt zich uitdrukkelijk niet tot het medische domein maar verbindt juist oplossingen over de domeinen van gezondheid, welzijn en zorg heen. Daarbij variëren de organisaties die gebruik maken van GIDS Open Standaarden in sterk in grootte en expertise. Zo worden via GIDS Open Standaarden zowel grote behandelplatformen voor de GGZ als kleine sites die opgezet worden vanuit een wijk met elkaar gekoppeld. Tegelijkertijd vertrouwen de gebruikers en de organisaties die de standaard gebruiken onderling er wel op dat alle deelnemers een goed veiligheidsbeleid hebben. Bestaande veiligheidskaders als de ISO27000 en NEN7510 zijn niet flexibel genoeg om zo een divers veld te reguleren. Daarom hanteert GIDS Open Standaarden een eigen veiligheidskader. Dit veiligheidskader hanteert een aantal uitgangspunten:
-
-
+GIDS Open Standaarden beperkt zich uitdrukkelijk niet tot het medische domein maar verbindt juist oplossingen over de domeinen van gezondheid, welzijn en zorg heen. Daarbij variëren de organisaties die gebruik maken van GIDS Open Standaarden sterk in grootte en expertise. Zo worden via GIDS Open Standaarden zowel grote behandelplatformen voor de GGZ als kleine sites die opgezet worden vanuit een wijk met elkaar gekoppeld. Tegelijkertijd vertrouwen de gebruikers en de organisaties die de standaard gebruiken onderling er wel op dat alle deelnemers een goed veiligheidsbeleid hebben. Bestaande veiligheidskaders als de ISO27000 en NEN7510 zijn niet flexibel genoeg om zo een divers veld te reguleren. Daarom hanteert GIDS Open Standaarden een eigen veiligheidskader. Dit veiligheidskader hanteert een aantal uitgangspunten:
 
 *   Het kader moet aanzetten tot _effectief veiligheidsbeleid_ en zichtbaar maken wat er aan beveiliging gedaan wordt. Daarvoor kijkt het niet alleen naar de genomen maatregelen, maar ook naar de context van het gebruik en de organisatie.
 *   Het kader moet aanzetten tot _openheid_. Openheid vergroot het vertrouwen van de gebruikers en de organisaties onderling en maakt het mogelijk dat de organisaties elkaar steunen in het verbeteren van hun veiligheid.
@@ -70,8 +59,6 @@ Bij de rapportage moet er uitgegaan worden van wat er daadwerkelijk geconstateer
 De uitnodigende organisatie publiceert vervolgens de bevindingen en voegt daar, indien gewenst een reactie aan toe. Die reactie kan bijvoorbeeld maatregelen vermelden die genomen zijn of worden naar aanleiding van de bevindingen. Bij een tussentijdse wijziging in het beveiligingsbeleid kan de organisatie vervroegd een nieuwe review vragen.
 
 
-
-
 # Kader
 
 De _cursief_ gedrukte tekst zijn voorbeelden van manieren om iets vast te stellen. Deze voorbeelden zijn niet leidend.
@@ -87,8 +74,6 @@ Het veiligheidsbeleid kan alleen werken als actief door de leiding uitgedragen e
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
-
-
 *   _De eigenaar of eigenaren bemoeien zich actief met de review en laten blijken goed op de hoogte te zijn van de details._
 *   _Er zijn aantoonbare voorbeelden van bedrijfsmatige keuzes op directieniveau waarbij de beveiliging prioriteit kreeg._
 *   _Medewerkers laten blijken zich door de directie gesteund te voelen bij het uitvoeren van de beveiligingsmaatregelen._
@@ -98,8 +83,6 @@ _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 Het gaat hier om algemene wetten, zoals de AVG, sector specifieke wetten, zoals de WGBO en om contractuele verplichtingen, zoals de overeenkomsten die geïmplementeerd moeten zijn bij het deelnemen aan MedMij in een bepaalde rol. Het moet aantoonbaar zijn dat hier voldoende overzicht op is in de organisatie.
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
-
-
 
 *   _Er is een overzicht beschikbaar van de verplichtingen waaraan voldaan moet worden._
 *   _Directie en medewerkers kunnen direct de voor het werk relevante eisen noemen._
@@ -197,13 +180,10 @@ Tegen alle bij 3b genoemde incidenten zijn maatregelen genomen. Voor de incident
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
-
-
 *   _De maatregelen kunnen, met mondelinge toelichting, ter plekke getoond worden._
 *   _Er is een security management systeem, bijvoorbeeld NEN-7510 of ISO-27001, aanwezig en de OWASP top-10 en de bijbehorende maatregelen zijn op basis van ‘comply or explain’ in het security management systeem opgenomen._
 *   _Er kan, via de bugtracker of via de Common Vulnerability Database getoond worden dat gebruikte componenten van derde partijen geen kritisch veiligheidsproblemen hebben._
 *   _Er kan getoond worden dat er een actief veiligheidsbeleid is voor een externe component._
-*   
 
 
 ## Deel 2: Optionele beveiligingsmaatregelen
@@ -216,8 +196,6 @@ Voorbeelden: regels voor wachtwoorden, het gebruik van USB-sticks, het gebruik v
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
-
-
 *   _De medewerkers hebben een lijstje met do’s en don’ts en kunnen dat makkelijk opzeggen of terugvinden._
 *   _In contracten zoals verwerkersovereenkomsten staan regels waar de medewerkers zich aan houden._
 
@@ -226,8 +204,6 @@ _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 Er zijn veel veiligheidsgerelateerde taken, zoals het maken van backups, het toewijzen van toegangsrechten, het uitvoeren van updates, het actueel houden van de lijst van mogelijke incidenten, etc. Voor elk van die taken is duidelijk wie er verantwoordelijk voor is en wie er achterwacht is bij afwezigheid. Voor taken die een onafhankelijke positie vragen, zoals Functionaris Gegevensbescherming of overzicht over het beveiligingsgebied, zijn er maatregelen genomen om die onafhankelijkheid te waarborgen.
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
-
-
 
 *   _Er kan direct een naam en een naam van een achterwacht genoemd worden bij een taak._
 *   _De Functionaris gegevensbescherming en degene die overzicht houdt over het beveiligingsbeleid hebben geen verantwoordelijkheid in het programmeren, onderhouden en beheren van het systeem._
@@ -239,8 +215,6 @@ Er zijn plannen, procedures en voorbereidingen voor als er iets mis gaat.
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
-
-
 *   _Medewerkers kunnen benoemen wat ze moeten doen als er iets mis gaat._
 *   _Er is een handboek voor noodsituaties._
 *   _Er zijn afspraken voor noodgevallen en noodvoorzieningen in plaats, zoals kanalen voor noodcommunicatie, fall-back systemen, mogelijkheden om in noodgevallen zicht op de aard en omvang van het incident te krijgen en prioriteiten lijsten voor mogelijke acties._
@@ -251,8 +225,6 @@ Voor taken als het aannemen en inwerken van nieuw personeel, het in gebruik neme
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
-
-
 *   _Er kan getoond worden dat er workflows gevolgd worden waarin de procedures verankerd zijn, bijvoorbeeld bij een aanpassing aan de software een workflow in de version control._
 *   _De procedures zijn beschreven._
 
@@ -261,8 +233,6 @@ _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 Bijvoorbeeld NEN-7510 of ISO-27001/2.
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
-
-
 
 *   _Documentatie van veiligheidsmanagement systeem._
 *   _Audit verslag van veiligheidsmanagement systeem._
@@ -273,8 +243,6 @@ Afhankelijk van de situatie kan het nuttig zijn om gespecialiseerde maatregelen 
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
-
-
 *   _Mondelinge toelichting op de maatregelen._
 *   _Schriftelijke beschrijving van de maatregelen._
 
@@ -283,8 +251,6 @@ _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 Denk aan trainingen om veilig gedrag te versterken, les in specifieke vaardigheden als veilig programmeren of aan het leren van de nieuwste inzichten op beveiligingsgebied.
 
 _Voorbeelden van manieren waarop dat aangetoond kan worden:_
-
-
 
 *   _Medewerkers kunnen uitleggen wat ze doen om hun kennis over beveiliging up-to-date te houden._
 *   _Er is een opleidingsplan voor medewerkers._
