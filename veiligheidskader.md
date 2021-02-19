@@ -39,14 +39,14 @@ Dit kader wijkt op een punt af van de eisen die door de ISO27001 of NEN7510-1 no
 
 ## Optie 1: peer review
 
-Een organisatie die deelneemt aan GIDS Open Standaarden nodigt minimaal een keer per jaar twee of meer collega organisaties uit het GIDS netwerk uit voor een veiligheidsreview. De organisatie die uitnodigt kan van te voren al documenten opsturen waaruit blijkt dat ze aan de onderdelen van het kader voldoen. De organisatie kan ook ter plekke met een mondelinge toelichting laten zien hoe het veiligheidsbeleid in de praktijk uitwerkt. Daarbij is het wel het uitgangspunt dat de review zodanig voorbereid moet zijn dat de review binnen twee uur gedaan kan worden.
+Een organisatie die gebruik maakt van GIDS Open Standaarden nodigt minimaal een keer per jaar twee of meer collega organisaties uit het GIDS netwerk uit voor een veiligheidsreview. De organisatie die uitnodigt kan van te voren al documenten opsturen waaruit blijkt dat ze aan de onderdelen van het kader voldoen. De organisatie kan ook ter plekke met een mondelinge toelichting laten zien hoe het veiligheidsbeleid in de praktijk uitwerkt. Daarbij is het wel het uitgangspunt dat de review zodanig voorbereid moet zijn dat de review binnen twee uur gedaan kan worden.
 
 Als de collega organisaties twijfel hebben over de review, kunnen ze ruggespraak vragen bij de Stichting Beter Met Elkaar.
 
 
 ## Optie 2: externe audit
 
-Een organisatie die deelneemt aan GIDS Open Standaarden vraagt minimaal een keer per jaar een externe auditor om na te gaan of hun organisatie voldoet aan het GIDS Open Standaarden veiligheidskader. De externe auditor moet of door de Raad voor Accreditatie geaccrediteerd om NEN7510 of ISO27000 audits te doen, of de externe auditor is door Stichting Beter Met Elkaar aangewezen als auditor.
+Een organisatie die gebruik maakt van GIDS Open Standaarden vraagt minimaal een keer per jaar een externe auditor om na te gaan of hun organisatie voldoet aan het GIDS Open Standaarden veiligheidskader. De externe auditor moet of door de Raad voor Accreditatie geaccrediteerd om NEN7510 of ISO27000 audits te doen, of de externe auditor is door Stichting Beter Met Elkaar aangewezen als auditor.
 
 
 # Rapportage
@@ -188,7 +188,7 @@ _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
 ## Deel 2: Optionele beveiligingsmaatregelen
 
-Deze maatregelen zijn niet verplicht om te voldoen aan het veiligheidskader van GIDS Open Standaarden, maar ze kunnen gebruikt worden om te laten zien welke aanvullende beveiligingsmaatregelen genomen zijn. Zeker bij grotere organisaties of als er met zeer risicovolle gegevens gewerkt worden, zullen deze maatregelen in beeld komen. Ook eisen sommige andere partijen of wetten deze maatregelen. Ze zijn niet verplicht in dit veiligheidskader omdat ze niet voor alle deelnemers aan GIDS Open Standaarden relevant zijn of omdat ze voor kleine organisaties een onevenredige last kunnen vormen.
+Deze maatregelen zijn niet verplicht om te voldoen aan het veiligheidskader van GIDS Open Standaarden, maar ze kunnen gebruikt worden om te laten zien welke aanvullende beveiligingsmaatregelen genomen zijn. Zeker bij grotere organisaties of als er met zeer risicovolle gegevens gewerkt worden, zullen deze maatregelen in beeld komen. Ook eisen sommige andere partijen of wetten deze maatregelen. Ze zijn niet verplicht in dit veiligheidskader omdat ze niet voor alle gebruikers van GIDS Open Standaarden relevant zijn of omdat ze voor kleine organisaties een onevenredige last kunnen vormen.
 
 **5. Er zijn voor de medewerkers concrete beveiligingsregels**
 
