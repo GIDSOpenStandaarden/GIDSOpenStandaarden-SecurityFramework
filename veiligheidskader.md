@@ -13,7 +13,7 @@ Deze versie van het veiligheidskader is stabiel, suggesties voor wijziging, opme
 
 GIDS Open Standaarden verbindt oplossingen over de domeinen van gezondheid, welzijn en zorg heen. Daarbij variëren de organisaties die gebruik maken van GIDS Open Standaarden sterk in grootte en expertise. Zo worden via GIDS Open Standaarden open source componenten zowel grote behandel platformen voor de zorg als bijvoorbeeld kleine websites die opgezet worden vanuit het sociale domein in een wijk met elkaar gekoppeld. Tegelijkertijd vertrouwen de gebruikers en de organisaties die de standaard gebruiken onderling er wel op dat alle deelnemers een goed veiligheidsbeleid hebben. Bestaande veiligheidskaders als de ISO27000 en NEN7510 zijn niet flexibel genoeg om zo een divers veld te reguleren. Daarom heeft GIDS Open Standaarden een eigen veiligheidskader. 
 
-# Dit veiligheidskader hanteert een aantal uitgangspunten:
+## Dit veiligheidskader hanteert een aantal uitgangspunten:
 
 *   Het kader moet aanzetten tot _effectief veiligheidsbeleid_ en zichtbaar maken wat er aan beveiliging gedaan wordt. Daarvoor kijkt het niet alleen naar de genomen maatregelen, maar ook naar de context van het gebruik en de organisatie.
 *   Het kader moet aanzetten tot _openheid_. Openheid vergroot het vertrouwen van de gebruikers en de organisaties onderling en maakt het mogelijk dat de organisaties elkaar steunen in het verbeteren van hun veiligheid.
