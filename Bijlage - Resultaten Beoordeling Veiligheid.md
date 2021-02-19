@@ -1,4 +1,4 @@
-# Bijlage 1: Resultaten Beoordeling Veiligheid
+# Bijlage: Resultaten Beoordeling Veiligheid
 
 **GIDS Open Standaarden**
 
