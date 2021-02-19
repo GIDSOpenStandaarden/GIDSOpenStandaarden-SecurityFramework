@@ -33,7 +33,7 @@ Dit kader wijkt op een punt af van de eisen die door de ISO27001 of NEN7510-1 no
 
 Een organisatie die gebruik maakt van GIDS Open Standaarden nodigt minimaal een keer per jaar twee of meer collega organisaties die ook gebruik maken van GIDS Open Standaarden uit voor een veiligheidsreview. De organisatie die uitnodigt kan van te voren al documenten opsturen waaruit blijkt dat ze aan de onderdelen van het kader voldoen. De organisatie kan ook ter plekke met een mondelinge toelichting laten zien hoe het veiligheidsbeleid in de praktijk uitwerkt. Daarbij is het wel het uitgangspunt dat de review zodanig voorbereid moet zijn dat de review binnen twee uur gedaan kan worden.
 
-Als de collega organisaties twijfel hebben over de review, kunnen ze ruggespraak houde bij andere organisaties die gebruik maken van GIDS Open Standaarden.
+Als de collega organisaties twijfel hebben over de review, kunnen ze ruggespraak houden bij andere organisaties die gebruik maken van GIDS Open Standaarden.
 
 
 ## Optie 2: externe audit
