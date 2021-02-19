@@ -6,11 +6,7 @@
 
 Versie 1.0, 14 januari 2021, Stabiele versie.
 
-Deze versie van het veiligheidskader is stabiel, suggesties voor wijziging, opmerkingen en aanverwante kunnen in het volgende document aangebracht worden:
-
-[Veiligheidskader GIDS Open Standaarden - Development versie](https://docs.google.com/document/d/17nWlem1TEWkN04xSs9uSigxV3OdidcObYt7wF5a8QSs/edit?usp=sharing) 
-
-Voel je vrij om in die versie wijzigingen voor te stellen of opmerkingen te plaatsen.
+Deze versie van het veiligheidskader is stabiel, suggesties voor wijziging, opmerkingen en aanverwante kunnen in het volgende document aangebracht worden: [Veiligheidskader GIDS Open Standaarden - Development versie](https://docs.google.com/document/d/17nWlem1TEWkN04xSs9uSigxV3OdidcObYt7wF5a8QSs/edit?usp=sharing). Voel je vrij om in die versie wijzigingen voor te stellen of opmerkingen te plaatsen.
 
 
 # Introductie
