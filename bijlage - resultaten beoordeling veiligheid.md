@@ -1,5 +1,7 @@
 # Bijlage: Resultaten Beoordeling Veiligheid
 
+Deze bijlage hoort bij het [veiligheidskader](https://github.com/GIDSOpenStandaarden/GIDSOpenStandaarden-SecurityFramework/blob/main/veiligheidskader.md) om resultaten vast te leggen voor de beoordeling van veiligheid tussen gebruikers van GIDS Open Standaarden.
+
 **GIDS Open Standaarden**
 
 **Organisatie / product:** 
