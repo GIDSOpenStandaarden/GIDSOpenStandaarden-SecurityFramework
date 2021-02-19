@@ -4,11 +4,7 @@
 
 # Versie en suggesties
 
-Versie 1.0
-
-14 januari 2021
-
-Stabiele versie
+Versie 1.0, 14 januari 2021, Stabiele versie.
 
 Deze versie van het veiligheidskader is stabiel, suggesties voor wijziging, opmerkingen en aanverwante kunnen in het volgende document aangebracht worden:
 
