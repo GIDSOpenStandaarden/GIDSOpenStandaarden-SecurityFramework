@@ -253,4 +253,4 @@ _Voorbeelden van manieren waarop dat aangetoond kan worden:_
 
 # Bijlage Resultaten Beoordeling Veiligheid
 
-Voor het vastleggen van resultaten voor de beoordeling van veiligheid gebruik deze [bijlage] (https://github.com/GIDSOpenStandaarden/GIDSOpenStandaarden-SecurityFramework/blob/main/bijlage%20-%20resultaten%20beoordeling%20veiligheid.md)
+Voor het vastleggen van resultaten voor de beoordeling van veiligheid gebruik deze [bijlage](https://github.com/GIDSOpenStandaarden/GIDSOpenStandaarden-SecurityFramework/blob/main/bijlage%20-%20resultaten%20beoordeling%20veiligheid.md).
