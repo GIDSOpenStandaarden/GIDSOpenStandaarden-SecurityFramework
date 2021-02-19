@@ -31,14 +31,14 @@ Dit kader wijkt op een punt af van de eisen die door de ISO27001 of NEN7510-1 no
 
 ## Optie 1: peer review
 
-Een organisatie die gebruik maakt van GIDS Open Standaarden nodigt minimaal een keer per jaar twee of meer collega organisaties uit het GIDS netwerk uit voor een veiligheidsreview. De organisatie die uitnodigt kan van te voren al documenten opsturen waaruit blijkt dat ze aan de onderdelen van het kader voldoen. De organisatie kan ook ter plekke met een mondelinge toelichting laten zien hoe het veiligheidsbeleid in de praktijk uitwerkt. Daarbij is het wel het uitgangspunt dat de review zodanig voorbereid moet zijn dat de review binnen twee uur gedaan kan worden.
+Een organisatie die gebruik maakt van GIDS Open Standaarden nodigt minimaal een keer per jaar twee of meer collega organisaties die ook gebruik maken van GIDS Open Standaarden uit voor een veiligheidsreview. De organisatie die uitnodigt kan van te voren al documenten opsturen waaruit blijkt dat ze aan de onderdelen van het kader voldoen. De organisatie kan ook ter plekke met een mondelinge toelichting laten zien hoe het veiligheidsbeleid in de praktijk uitwerkt. Daarbij is het wel het uitgangspunt dat de review zodanig voorbereid moet zijn dat de review binnen twee uur gedaan kan worden.
 
-Als de collega organisaties twijfel hebben over de review, kunnen ze ruggespraak vragen bij de Stichting Beter Met Elkaar.
+Als de collega organisaties twijfel hebben over de review, kunnen ze ruggespraak houde bij andere organisaties die gebruik maken van GIDS Open Standaarden.
 
 
 ## Optie 2: externe audit
 
-Een organisatie die gebruik maakt van GIDS Open Standaarden vraagt minimaal een keer per jaar een externe auditor om na te gaan of hun organisatie voldoet aan het GIDS Open Standaarden veiligheidskader. De externe auditor moet of door de Raad voor Accreditatie geaccrediteerd om NEN7510 of ISO27000 audits te doen, of de externe auditor is door Stichting Beter Met Elkaar aangewezen als auditor.
+Een organisatie die gebruik maakt van GIDS Open Standaarden vraagt minimaal een keer per jaar een externe auditor om na te gaan of hun organisatie voldoet aan het GIDS Open Standaarden veiligheidskader. De externe auditor moet of door de Raad voor Accreditatie geaccrediteerd om NEN7510 of ISO27000 audits te doen, of de externe auditor is door de organisaties die gebruik maken van GIDS Open Standaarden aangewezen als auditor.
 
 
 # Rapportage
