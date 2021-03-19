@@ -1,7 +1,4 @@
 
-# Veiligheidskader
-
-
 # Versie en suggesties
 
 Versie 1.0, 14 januari 2021, Stabiele versie.
